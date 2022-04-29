@@ -461,4 +461,7 @@ body{
         left: initial;
         color: var(--white);
     }
+    .main.active {
+        left: 0;
+    }
 }
